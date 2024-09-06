@@ -14,7 +14,7 @@ The goal of this project is to build a Generative adversarial model(modified U-N
 - The T1 and T2 MRI Images included in the dataset are not related in any way since we have an unpaired dataset here.
 
 ## Project pipeline
-###The project pipeline can be briefly summarized in the following four steps:
+### The project pipeline can be briefly summarized in the following four steps:
 - *Data Understanding:* Here, we load the data and create the dataset for it.
 - *Image Processing:* In this step, we process the images using different steps.
 - *Model-Building and Training:* This is the final step at which we create Generators and Discriminators using a modified U-Net architecture (similar to CycleGAN). You also have to define the loss function and training step for model training.
