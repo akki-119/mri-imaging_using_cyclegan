@@ -1,1 +1,1 @@
-# mri-imaging_using_cyclegan
+# MRI Imaging Using CycleGAN
